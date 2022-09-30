@@ -1,0 +1,38 @@
+.heading {
+  font-family: 'Centra';
+  text-decoration: none;
+  margin-bottom: 50px;
+  color: white;
+  padding-top: 60px;
+}
+
+h2 {
+  font-size: 3.5em;
+}
+
+.skills {
+  position: relative;
+  clear: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.box {
+  flex: 1 1 20%;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #141686;
+  box-shadow: 10px 10px rgb(34, 6, 105);
+  transition: box-shadow 0.5s;
+}
+
+.box:hover {
+  box-shadow: 20px 20px rgb(75, 7, 185);
+}
+
+.logo {
+  width: 4rem;
+}
+
