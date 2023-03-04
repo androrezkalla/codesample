@@ -2,20 +2,25 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";
-import { Projects } from "./components/Projects";
 import { Footer } from "./components/Footer";
 import { Skills } from "./components/Skills";
+import {Aboutme} from "./components/Aboutme";
+import {Helmet} from "react-helmet";
 
 function App() {
   return (
     <div className="App">
+      <Helmet>
+        <title>Andro Rezkalla</title>
+    </Helmet>
       <NavBar />
       <Banner />
       <Skills />
-      <Projects />
-      <div>
-        <p> </p>
-      </div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <Aboutme />
       <Footer />
     </div>
   );

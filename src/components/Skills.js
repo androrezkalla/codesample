@@ -82,7 +82,7 @@ export const Skills = () => {
                       badges={backend_badges}
                     />
                     <SkillCard
-                      title="Databses and Servers"
+                      title="Databases and Servers"
                       alt_logo="databases"
                       logo="https://res.cloudinary.com/andreahabib/image/upload/v1627079886/databases_uvqgga.svg"
                       badges={databases_badges}

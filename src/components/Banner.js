@@ -51,17 +51,17 @@ export const Banner = () => {
   }
 
   return (
-    
     <section className="banner" id="home">
+      
       <Container>
-        <Row className="aligh-items-center">
+        <Row>
           <Col xs={12} md={6} xl={7}>
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <div className="aiheader"> <img src={ai}/></div>
-                <div className="coder"> <img src={cod}/></div>
-                <h1>{`Hi! I'm Andro`} <br></br><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "" ]'><span className="wrap">{text}</span></span></h1>
+                <span className="tagline">Andro Rezkalla</span>
+                <div className="aiheader"> <img src={cod}/></div>
+                <h1>{`Hi! I'm Andro Rezkalla`} <br></br><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Aspiring computer science student at the College of Staten Island. </p>
               </div>}
             </TrackVisibility>
@@ -71,5 +71,5 @@ export const Banner = () => {
     </section>
 
 
-  )
+  ) 
 }
