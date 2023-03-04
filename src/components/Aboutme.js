@@ -31,7 +31,6 @@ export const Aboutme = () => {
                   FRC Team 333 at John Dewey High School. I got the opporunity to compete and win national champinionships 
                   in the First Robotics Competition with my team and I have been interested in tech ever since!
                 </p>
-                <p>"We are what we repeatedly do. Excellence is not an act, but a habit." - Aristotle</p>
 
                 
               </div>}
