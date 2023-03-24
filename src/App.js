@@ -4,7 +4,8 @@ import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";
 import { Footer } from "./components/Footer";
 import { Skills } from "./components/Skills";
-import {Aboutme} from "./components/Aboutme";
+import { Resume } from "./components/Resume";
+import { Aboutme} from "./components/Aboutme";
 import {Helmet} from "react-helmet";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
+      <Resume />
       <br></br>
       <br></br>
       <br></br>

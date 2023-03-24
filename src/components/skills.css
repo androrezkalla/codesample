@@ -10,6 +10,11 @@ h2 {
   font-size: 3.5em;
 }
 
+.skillgap{
+  color:#121212;
+  margin-bottom: 150px;
+}
+
 .skills {
   position: relative;
   clear: none;

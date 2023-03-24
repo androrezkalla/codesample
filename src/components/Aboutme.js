@@ -28,8 +28,8 @@ export const Aboutme = () => {
                     <p>* Neural Networking</p>
                     <p>* Artificial Intellegence</p>
                 <p> My interests in computer science and robotics were sparked after I participated in my local Robotics Club,
-                  FRC Team 333 at John Dewey High School. I got the opporunity to compete and win national champinionships 
-                  in the First Robotics Competition with my team and I have been interested in tech ever since!
+                   at John Dewey High School. I got the opporunity to compete and win national champinionships 
+                  in the First Robotics Competition with my team and I have been interested in tech ever since
                 </p>
 
                 

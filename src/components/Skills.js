@@ -12,6 +12,12 @@ export const Skills = () => {
         css3: "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white",
         react:
           "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB",
+        bootstrap:
+      "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white",
+      redux:
+      "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white",
+      react_router:
+      "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white",
       };
       const backend_badges = {
         python:
@@ -19,6 +25,11 @@ export const Skills = () => {
         cplusplus:
           "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white",
         java: "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white",
+        nodejs:
+      "https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white",
+      javascript:
+      "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
+      JSON: "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white",
 
       };
       const databases_badges = {
@@ -26,6 +37,10 @@ export const Skills = () => {
           "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white",
         netlify:
           "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white",
+          mongodb:
+          "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white",
+          firebase:
+      "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black",
       };
       const texteditors_badges = {
         VisualStudioCode:
@@ -52,6 +67,9 @@ export const Skills = () => {
         git: "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white",
         github:
           "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white",
+          jira: "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white",
+          docker:
+      "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white",
   
       };
 
@@ -108,8 +126,12 @@ export const Skills = () => {
                       logo="https://res.cloudinary.com/andreahabib/image/upload/v1627079886/tools_gdo28k.svg"
                       badges={tools_badges}
                     />
+
+      
                   </span>
+                  <h3 class="skillgap">//..h....//</h3>
                 </div>
+                
               </section>   
       );
   }
