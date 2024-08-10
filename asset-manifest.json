@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5ccf8f8.css",
-    "main.js": "/static/js/main.af367389.js",
+    "main.css": "/static/css/main.90a165bf.css",
+    "main.js": "/static/js/main.e46b2ef5.js",
     "static/media/violation.png": "/static/media/violation.0eeabf4930d441f6cea6.png",
     "static/media/flex.png": "/static/media/flex.5255271538a2823f2eaf.png",
     "static/media/monies.png": "/static/media/monies.cdc5c83c00a69497e020.png",
     "static/media/weather.png": "/static/media/weather.111dda70a10d10709f5a.png",
-    "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -16,11 +15,11 @@
     "static/media/coder.png": "/static/media/coder.7cc36a0c81d422b72691.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "index.html": "/index.html",
-    "main.e5ccf8f8.css.map": "/static/css/main.e5ccf8f8.css.map",
-    "main.af367389.js.map": "/static/js/main.af367389.js.map"
+    "main.90a165bf.css.map": "/static/css/main.90a165bf.css.map",
+    "main.e46b2ef5.js.map": "/static/js/main.e46b2ef5.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5ccf8f8.css",
-    "static/js/main.af367389.js"
+    "static/css/main.90a165bf.css",
+    "static/js/main.e46b2ef5.js"
   ]
 }
